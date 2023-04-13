@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BT1</string>
+    <array name="listPhepTinh">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </array>
+    <string-array name="technology">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>Android</item>
+        <item>Web</item>
+        <item>Windows</item>
+    </string-array>
+</resources>
